@@ -1,0 +1,19 @@
+.list-item
+{
+	list-style: none;
+	
+}
+.list-item a 
+{
+	text-decoration: none;
+}
+.page
+{
+	font-family: sans-serif;
+	background: #f3f3f3;
+    line-height: 28px;
+    font-size: 15px !important;
+    padding: 10px 23px;
+    margin-bottom: 24px;
+
+}
